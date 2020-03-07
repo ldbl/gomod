@@ -1,6 +1,8 @@
 package gomod
 
 import "fmt"
-func testgomod() {
-    fmt.Println("Go moduel :)")
+
+func MySampleFunc() {
+	fmt.Println("Version 2.0 of this Function")
+	fmt.Println("Hello World")
 }
